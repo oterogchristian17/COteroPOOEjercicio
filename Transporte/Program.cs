@@ -18,7 +18,7 @@ namespace Transporte
             Console.WriteLine("Soy el automovil 1");
             Automovil miAuto = new Automovil(4, 200, 4, 4);
             miAuto.CambiarLlanta();
-            miAuto.Avanzar();
+            miAuto.Frenar();
 
 
 

@@ -22,14 +22,15 @@ namespace Transporte
 
         }
 
+        //METODOS CON VIRTUAL PARA PERMITIR LA SOBREESCRITURA
         public virtual void Avanzar()
         {
-            Console.WriteLine("Estoy avanzando");
+            Console.WriteLine("Estoy avanzando desdela clase Transporte");
         }
 
         public virtual void Frenar()
         {
-            Console.WriteLine("Estoy frenando");
+            Console.WriteLine("Estoy frenando desde clase Transporte");
         }
 
 

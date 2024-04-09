@@ -6,3 +6,11 @@ C:\Users\digis\Documents\Christian Otero Garcia\COteroTransportePOO\Transporte\b
 C:\Users\digis\Documents\Christian Otero Garcia\COteroTransportePOO\Transporte\bin\Debug\Transporte.pdb
 C:\Users\digis\Documents\Christian Otero Garcia\COteroTransportePOO\Transporte\obj\Debug\Transporte.exe
 C:\Users\digis\Documents\Christian Otero Garcia\COteroTransportePOO\Transporte\obj\Debug\Transporte.pdb
+C:\Users\digis\Documents\Christian Otero Garcia\COteroPOOEjercicioGITHUB\COteroPOOEjercicio\Transporte\bin\Debug\Transporte.exe.config
+C:\Users\digis\Documents\Christian Otero Garcia\COteroPOOEjercicioGITHUB\COteroPOOEjercicio\Transporte\bin\Debug\Transporte.exe
+C:\Users\digis\Documents\Christian Otero Garcia\COteroPOOEjercicioGITHUB\COteroPOOEjercicio\Transporte\bin\Debug\Transporte.pdb
+C:\Users\digis\Documents\Christian Otero Garcia\COteroPOOEjercicioGITHUB\COteroPOOEjercicio\Transporte\obj\Debug\Transporte.csproj.AssemblyReference.cache
+C:\Users\digis\Documents\Christian Otero Garcia\COteroPOOEjercicioGITHUB\COteroPOOEjercicio\Transporte\obj\Debug\Transporte.csproj.SuggestedBindingRedirects.cache
+C:\Users\digis\Documents\Christian Otero Garcia\COteroPOOEjercicioGITHUB\COteroPOOEjercicio\Transporte\obj\Debug\Transporte.csproj.CoreCompileInputs.cache
+C:\Users\digis\Documents\Christian Otero Garcia\COteroPOOEjercicioGITHUB\COteroPOOEjercicio\Transporte\obj\Debug\Transporte.exe
+C:\Users\digis\Documents\Christian Otero Garcia\COteroPOOEjercicioGITHUB\COteroPOOEjercicio\Transporte\obj\Debug\Transporte.pdb

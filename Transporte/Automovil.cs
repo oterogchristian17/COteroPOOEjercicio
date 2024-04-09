@@ -60,7 +60,7 @@ namespace Transporte
 
         public override void Avanzar()
         {
-            Console.WriteLine("Estoy avanzando con polimorfismo");
+            Console.WriteLine("Estoy avanzando desde la clase Automovil");
         }
 
     }
