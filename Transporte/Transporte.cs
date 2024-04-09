@@ -17,9 +17,9 @@ namespace Transporte
         public string Motor;
 
         //Constructor Vacio
-        public Transporte() 
-        { 
-        
+        public Transporte()
+        {
+
         }
 
         public virtual void Avanzar()
@@ -36,3 +36,4 @@ namespace Transporte
 
     }
 }
+

@@ -28,7 +28,7 @@ namespace Transporte
 
             //Atributos de la clase Automovil
             this.puertas = puertas;
-            
+
         }
 
         public Automovil(int pasajeros, int velocidadMaxima, int numeroLlantas, int puertas, string placa)

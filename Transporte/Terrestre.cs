@@ -12,7 +12,15 @@ namespace Transporte
     {
         public int numeroLlantas = 0;
 
+        //Constructor Vacio
+        public Terrestre() { }
 
+        //Sobrecarga de constructores
+        public Terrestre(int numeroLlantas) { }
 
+        private void MiMetodo()
+        {
+            Console.WriteLine("Estoy usando mi metodo protected");
+        }
     }
 }
